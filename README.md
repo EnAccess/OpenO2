@@ -1,4 +1,4 @@
-# OpenO2
+# EnAccess OpenO2
 
 Access to electricity is critical for delivery of health care. Although data reporting has been poor, studies have shown that there is only around 28% of health facilities in Sub-Saharan Africa with reliable access to electricity, with only around 25% having no access to electricity [1]. One important consequence is that lack of access to power and poor transportation infrastructure can lead to health facilities having a lack of access to oxygen and unable to produce it reliably. Oxygen is used to treat treating acute respiratory illness and has been shown to reduce mortality and improve patient outcomes [2] and Oxygen Concentrators are a cost effective way to produce oxygen in health facilities, but many existing designs are not optimised for low resource settings.
 
