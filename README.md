@@ -30,6 +30,6 @@ The public roadmap for the project will soon be available.
 Please join our slack channel, get involved and contribute :-)
 
 ## References 
-[1] Limited electricity access in health facilities of sub-Saharan Africa: a systematic review of data on electricity access, sources, and reliability, Adair-Rohani et al., Glob Health Sci Pract. 2013 Aug; 1(2): 249–261, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4168575/
-[2] Oxygen is an essential medicine: a call for international action, Duke et al., Int J Tuberc Lung Dis. 2010 Nov; 14(11): 1362–1368,  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2975100/
-[3] Oxygen sources and distribution for COVID-19 treatment centres, WHO, Interim guidance, 4th April 2020
+1. Limited electricity access in health facilities of sub-Saharan Africa: a systematic review of data on electricity access, sources, and reliability, Adair-Rohani et al., Glob Health Sci Pract. 2013 Aug; 1(2): 249–261, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4168575/
+2. Oxygen is an essential medicine: a call for international action, Duke et al., Int J Tuberc Lung Dis. 2010 Nov; 14(11): 1362–1368,  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2975100/
+3. Oxygen sources and distribution for COVID-19 treatment centres, WHO, Interim guidance, 4th April 2020
