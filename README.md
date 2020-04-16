@@ -2,7 +2,7 @@
 
 Access to electricity is critical for delivery of health care. Although data reporting has been poor, studies have shown that there is only around 28% of health facilities in Sub-Saharan Africa with reliable access to electricity, with only around 25% having no access to electricity [1]. One important consequence is that lack of access to power and poor transportation infrastructure can lead to health facilities having a lack of access to oxygen and unable to produce it reliably. Oxygen is used to treat treating acute respiratory illness and has been shown to reduce mortality and improve patient outcomes [2] and Oxygen Concentrators are a cost effective way to produce oxygen in health facilities, but many existing designs are not optimised for low resource settings.
 
-This project, being co-ordinated by enaccess, is developing an appropriate Open Source Oxygen Concentrator suitable for manufacture and use in Low Resource Settings. The project is driven by nurses, doctors and practitioners who work in these contexts.
+This project, being co-ordinated by EnAccess, is developing an appropriate Open Source Oxygen Concentrator suitable for manufacture and use in Low Resource Settings. The project is driven by nurses, doctors and practitioners who work in these contexts.
 
 An Oxygen concentrator is a, normally electrically powered, device, which concentrates oxygen from ambient air, removing the nitrogen. The most commonly used technology used is know as pressure-swing-adsorbtion (PSA). One of the major challenges to running an Oxygen Concentrator in LRS is that most Oxygen Concentrators require uninterrupted reliable access to electricity. 
 
