@@ -20,7 +20,7 @@ All documentation will be in the "docs" directory. This will includes a detailed
 
 ## Contribute 
 To contribute to OpenO2:
-Join the [slack](https://join.slack.com/t/openo2/shared_invite/zt-dd1zdamv-DflaeeFV1SwJfTES4zq71A) channel
+Join the [slack](https://join.slack.com/t/openo2/shared_invite/zt-dd1zdamv-DflaeeFV1SwJfTES4zq71A) channel and introduce yourself, we're keen to have you involved.
 
 
 This project does not seek to duplicate work of other open source oxygen concentrator designs, but rather contribute towards these projects while assembling and, where necessary making resources relevant to low resource settings. To achieve this we are collaborating with medics in these environments as well as those who have extensive experience of working in these settings to get input and feedback. Simultaneously we are developing partnerships to coordinate manufacture and logistics in the developing world, beginning in Tanzania.
