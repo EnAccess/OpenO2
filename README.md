@@ -18,7 +18,7 @@ The project’s main objective is the development of an Open Source Oxygen Conce
 
 All documentation will be in the "docs" directory. This will includes a detailed specification document on the requirements of the system in line with WHO guidelines and developed in collaboration with medical experts. As the project develops it will include comprehensive documentation on the design. If you find any problems in the docs, or think they should be clarified in any way, please take 30 seconds to raise a ticket and if you can, get involved.
 
-## Contribute
+## Contribute 
 To contribute to OpenO2:
 Join the [slack](https://join.slack.com/t/openo2/shared_invite/zt-dd1zdamv-DflaeeFV1SwJfTES4zq71A) channel
 
