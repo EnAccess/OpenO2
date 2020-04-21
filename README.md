@@ -1,8 +1,8 @@
-# EnAccess OpenO2
+# OpenO2
 
 Access to electricity is critical for delivery of health care. Although data reporting has been poor, studies have shown that there is only around 28% of health facilities in Sub-Saharan Africa with reliable access to electricity, with only around 25% having no access to electricity [1]. One important consequence is that lack of access to power and poor transportation infrastructure can lead to health facilities having a lack of access to oxygen and unable to produce it reliably. Oxygen is used to treat treating acute respiratory illness and has been shown to reduce mortality and improve patient outcomes [2] and Oxygen Concentrators are a cost effective way to produce oxygen in health facilities, but many existing designs are not optimised for low resource settings.
 
-This project, being co-ordinated by EnAccess, is developing an appropriate Open Source Oxygen Concentrator suitable for manufacture and use in Low Resource Settings. The project is driven by nurses, doctors and practitioners who work in these contexts.
+This project, being co-ordinated by enaccess, is developing an appropriate Open Source Oxygen Concentrator suitable for manufacture and use in Low Resource Settings. The project is driven by nurses, doctors and practitioners who work in these contexts.
 
 An Oxygen concentrator is a, normally electrically powered, device, which concentrates oxygen from ambient air, removing the nitrogen. The most commonly used technology used is know as pressure-swing-adsorbtion (PSA). One of the major challenges to running an Oxygen Concentrator in LRS is that most Oxygen Concentrators require uninterrupted reliable access to electricity. 
 
@@ -20,7 +20,15 @@ All documentation will be in the "docs" directory. This will includes a detailed
 
 ## Contribute 
 To contribute to OpenO2:
-Join the [slack](https://join.slack.com/t/openo2/shared_invite/zt-dd1zdamv-DflaeeFV1SwJfTES4zq71A) channel and introduce yourself, we're keen to have you involved.
+Join the [slack](https://join.slack.com/t/openo2/shared_invite/zt-dd1zdamv-DflaeeFV1SwJfTES4zq71A) channel and introduce yourself on the #introductions channel, we're keen to have you involved. If you don't use slack and keen to be involved, please do fill in the form below, we'd love to hear from you.
+
+### How can you help?
+Do you have skills or resources you would be able to offer? We'd love to hear from people with frontline experience in the Global South as doctors and nurses, doctors and nurses who would be willing to act as advicers to the project, designers, makers, creative thinkers, engineers, scientists,  fabricators, people with experience of microcontrollers (think arduino), and writing ble mobile applications.
+
+If you can help, please  fill in this [short form](https://forms.gle/AssXDcYFwrB8rB6Y8).
+
+## How can we help you?
+Are you a frontline worker who could  benefit from this work? Are you connected with those who could benefit? Please do get in touch by filling in this [short form](https://forms.gle/qy3bU8bYMHzdqqZ36).
 
 
 This project does not seek to duplicate work of other open source oxygen concentrator designs, but rather contribute towards these projects while assembling and, where necessary making resources relevant to low resource settings. To achieve this we are collaborating with medics in these environments as well as those who have extensive experience of working in these settings to get input and feedback. Simultaneously we are developing partnerships to coordinate manufacture and logistics in the developing world, beginning in Tanzania.
