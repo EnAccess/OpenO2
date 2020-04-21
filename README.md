@@ -19,19 +19,21 @@ The project’s main objective is the development of an Open Source Oxygen Conce
 All documentation will be in the "docs" directory. This will includes a detailed specification document on the requirements of the system in line with WHO guidelines and developed in collaboration with medical experts. As the project develops it will include comprehensive documentation on the design. If you find any problems in the docs, or think they should be clarified in any way, please take 30 seconds to raise a ticket and if you can, get involved.
 
 ## Contribute 
-To contribute to OpenO2:
-Join the [slack](https://join.slack.com/t/openo2/shared_invite/zt-dd1zdamv-DflaeeFV1SwJfTES4zq71A) channel and introduce yourself on the #introductions channel, we're keen to have you involved. If you don't use slack and keen to be involved, please do fill in the form below, we'd love to hear from you.
+Do you have skills or resources you would be able to offer? We'd love to hear from people with frontline experience in the Global South as doctors and nurses, doctors and nurses who would be willing to act as advisers to the project, designers, makers, creative thinkers, engineers, people with 3D cad experience, people who can help manage knowledge and documentation, scientists,  fabricators, people with experience of microcontrollers (think arduino) and writing ble mobile applications.
 
-### How can you help?
-Do you have skills or resources you would be able to offer? We'd love to hear from people with frontline experience in the Global South as doctors and nurses, doctors and nurses who would be willing to act as advicers to the project, designers, makers, creative thinkers, engineers, scientists,  fabricators, people with experience of microcontrollers (think arduino), and writing ble mobile applications.
-
-If you can help, please  fill in this [short form](https://forms.gle/AssXDcYFwrB8rB6Y8).
+Join the [slack](https://join.slack.com/t/openo2/shared_invite/zt-dd1zdamv-DflaeeFV1SwJfTES4zq71A) channel and introduce yourself on the #introductions channel, we're keen to have you involved. If you don't use slack and keen to be involved, please do fill in this [(short) form](https://forms.gle/AssXDcYFwrB8rB6Y8), we'd love to hear from you.
 
 ## How can we help you?
 Are you a frontline worker who could  benefit from this work? Are you connected with those who could benefit? Please do get in touch by filling in this [short form](https://forms.gle/qy3bU8bYMHzdqqZ36).
 
+# Other Oxygen Concentrator Projects
 
-This project does not seek to duplicate work of other open source oxygen concentrator designs, but rather contribute towards these projects while assembling and, where necessary making resources relevant to low resource settings. To achieve this we are collaborating with medics in these environments as well as those who have extensive experience of working in these settings to get input and feedback. Simultaneously we are developing partnerships to coordinate manufacture and logistics in the developing world, beginning in Tanzania.
+This project does not seek to duplicate work of other open source oxygen concentrator designs, but rather contribute towards these projects while assembling and, where necessary making resources relevant to low resource settings, which is our particular focus. To achieve this we are collaborating with medics in these environments as well as those who have extensive experience of working in these settings to get input and feedback. Simultaneously we are developing partnerships to coordinate manufacture and logistics in the developing world, beginning in Tanzania.
+
+## Other projects we want to encourage
+* https://github.com/RepRapLtd/Oxygen-concentrator
+* https://github.com/oxycon/ProjectApollo
+* https://hackaday.io/project/170752-oximeter-do-it-yourself/details
 
 ## Roadmap
 The public roadmap for the project will soon be available.
