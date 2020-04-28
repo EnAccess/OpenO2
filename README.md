@@ -36,7 +36,9 @@ This project does not seek to duplicate work of other open source oxygen concent
 * https://hackaday.io/project/170752-oximeter-do-it-yourself/details
 
 ## Roadmap
-The public roadmap for the project will soon be available.
+The public roadmap for the project is here:
+https://github.com/EnAccess/OpenO2/projects/1
+
 Please join our slack channel, get involved and contribute :-)
 
 ## References 

@@ -4,7 +4,7 @@ This documents outlines the high level requirements for the OpenO2 Oxygen Concen
 
 ## References 
 * EN ISO 80601-2-69:2014 – Medical electrical equipment – Particular requirements for basic safety and performance of oxygen concentrator equipment Safety requirements
-* EC 60601-1 – Medical electrical equipment – General requirements for basic safety and essential performance
+* EC 60601-1 – Medical electrical equipment – General requirements for basic safety and essential performance 
 * EN ISO 8359:1996 – Oxygen concentrators for medical use – Safety Requirements
 * [The clinical use of oxygen in hospitals with limited resources: Guidelines for health-care workers, hospital engineers and managers, WHO, Trevor Duke, May 2009](https://instructure-uploads.s3.amazonaws.com/account_100000000083919/attachments/23344297/Ortiz-The%20Clinical%20Use%20of%20Oxygen%20in%20Hospitals%20with%20Limited%20Resources.pdf?response-content-disposition=attachment%3B%20filename%3D%22Ortiz-The%20Clinical%20Use%20of%20Oxygen%20in%20Hospitals%20with%20Limited%20Resources.pdf%22%3B%20filename%2A%3DUTF-8%27%27Ortiz%252DThe%2520Clinical%2520Use%2520of%2520Oxygen%2520in%2520Hospitals%2520with%2520Limited%2520Resources.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJDW777BLV26JM2MQ%2F20200421%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200421T092851Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b4eb14df9da9b6579e17bd8e9fec9bcbeaaea6061a63618c9cd0159f37f6fe69)
 * [Technical Specification For Oxygen Concentrators, WHO, 2015](https://apps.who.int/iris/bitstream/handle/10665/199326/9789241509886_eng.pdf?sequence=1)
