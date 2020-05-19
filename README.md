@@ -1,5 +1,7 @@
 ![](/docs/_media/OpenO2.png)
 
+<img src="/docs/_media/OpenO2.png" alt="OpenO2Logo" width="100%" />
+
 # OpenO2
 
 
