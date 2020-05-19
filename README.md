@@ -1,5 +1,5 @@
 
-<img src="/docs/_media/OpenO2.png" style="display: block;margin-left: auto margin-right: auto;width: 50%;"  />
+<img src="/docs/_media/OpenO2.png" style="display:block;text-align:center;"  />
 
 # OpenO2
 
