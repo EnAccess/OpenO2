@@ -1,5 +1,7 @@
 
-<img src="/docs/_media/OpenO2.png" style="display:block;text-align:center;"  />
+<p align="center">
+    <img src="/docs/_media/OpenO2.png" />
+</p>
 
 # OpenO2
 
