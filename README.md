@@ -1,4 +1,4 @@
-![Kitten](/docs/_media_/OpenO2.png)
+![](/docs/_media/OpenO2.png)
 
 # OpenO2
 
