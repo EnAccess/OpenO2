@@ -3,9 +3,6 @@
     <img src="/docs/_media/OpenO2.png" />
 </p>
 
-# OpenO2
-
-
 Access to electricity is critical for delivery of health care. Although data reporting has been poor, studies have shown that there is only around 28% of health facilities in Sub-Saharan Africa with reliable access to electricity, with only around 25% having no access to electricity [1]. One important consequence is that lack of access to power and poor transportation infrastructure can lead to health facilities having a lack of access to oxygen and unable to produce it reliably. Oxygen is used to treat treating acute respiratory illness and has been shown to reduce mortality and improve patient outcomes [2] and Oxygen Concentrators are a cost effective way to produce oxygen in health facilities, but many existing designs are not optimised for low resource settings.
 
 This project, being co-ordinated by enaccess, is developing an appropriate Open Source Oxygen Concentrator suitable for manufacture and use in Low Resource Settings. The project is driven by nurses, doctors and practitioners who work in these contexts.
@@ -51,3 +48,16 @@ Please join our slack channel, get involved and contribute :-)
 1. Limited electricity access in health facilities of sub-Saharan Africa: a systematic review of data on electricity access, sources, and reliability, Adair-Rohani et al., Glob Health Sci Pract. 2013 Aug; 1(2): 249–261, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4168575/
 2. Oxygen is an essential medicine: a call for international action, Duke et al., Int J Tuberc Lung Dis. 2010 Nov; 14(11): 1362–1368,  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2975100/
 3. Oxygen sources and distribution for COVID-19 treatment centres, WHO, Interim guidance, 4th April 2020
+
+## Organisations Involved
+We are continuing to bring together organisations to work on OpenO2. Please let us know if you are keen to be involved!
+
+<p float="left" >
+    <a href="https://enaccess.org"><img src="/docs/_media/enaccess_logo.svg" width="150" /></a>
+  <a href="https://www.communityenergymalawi.org"><img src="/docs/_media/community_energy_malawi.png" width="100" /></a>
+  <a href="https://www.strath.ac.uk"><img src="/docs/_media/strathclyde_logo1.png" width="100" /></a>
+   <a href="https://creativenergie.co.uk"><img src="/docs/_media/creativenergie.png" width="200" /></a>
+   <a href="https://www.polytechnicds.com"><img src="/docs/_media/design_studio_logo.png" width="200" /></a>
+   <a href="https://www.poly.ac.mw"><img src="/docs/_media/university_malawi_logo.png" width="100" /></a>
+</p>
+
