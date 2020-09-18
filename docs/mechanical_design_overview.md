@@ -24,11 +24,12 @@ The follow is a list of materials required to build:
 # Schematic of set-up
 Here's a rough sketch of the setup. (We'll be updating with a better diagram soon!):
 
-<p align="center">
+<!-- <p align="center">
     <img src="/docs/_media/schematic_openO2.jpg" />
-     <img src="https://github.com/EnAccess/OpenO2/blob/master/docs/_media/schematic_openO2.jpg" />
     
-</p>
+</p> -->
+![Schematic](_media/schematic_openO2.jpg)
+
 
 # How it works
 The system cycles through the following steps:
