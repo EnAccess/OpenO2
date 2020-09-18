@@ -1,5 +1,5 @@
 # Overview and update
-Version one of the mechanical design is based on a simple mechanical system single column system controlled by a 12V motor. Details of this are given below. Oxygen Concentrations > 90% have been achieved with this design. We are currently working on 1) A double column design to achieve a more continuous flow; 2) A completely pneumatic controlled design (which does not rely on any external power source); 3) lowering the energy consumption using a completely different approach to make this more suitable for off-grid locations; 4) designs of compressor which can be fabricated locally with minimal equipment.
+Version one of the mechanical design is based on a simple mechanical system single column system controlled by a 12V motor. Details of this are given below. Oxygen Concentrations > 90% have been achieved with this design. We are currently working on 1) A double column design to achieve a more continuous flow; 2) A completely pneumatic controlled design (which does not rely on any external power source); 3) lowering the energy consumption using a completely different approach to make this more suitable for off-grid locations; 4) designs of a compressor which can be fabricated locally with minimal equipment.
 
 # Overview
 The first version of our design uses a single column, making a very simple design. We use PSA drying to pre-dry the air before it enters the zeolite bed for oxygen concentration. Because one of our aims is to make this suitable for off-grid locations we have chosen to use a Li-X zeolite due to the significant enhancement of the N2/O2 adsorption selectivity compared to 13X zeolite. This means we can achieve lower energy consumption for compared to traditional 13X zeolite with the same volume of bed and operating operating pressure (e.g. see https://www.tandfonline.com/doi/abs/10.1080/01496399208018880).
@@ -26,6 +26,8 @@ Here's a rough sketch of the setup. (We'll be updating with a better diagram soo
 
 <p align="center">
     <img src="/docs/_media/schematic_openO2.jpg" />
+     <img src="https://github.com/EnAccess/OpenO2/blob/master/docs/_media/schematic_openO2.jpg" />
+    
 </p>
 
 # How it works
