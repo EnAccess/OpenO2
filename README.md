@@ -19,7 +19,7 @@ The project’s main objective is the development of an Open Source Oxygen Conce
 * Ideally be modular and expandable, making it possible to easily size the system to produce enough oxygen required by different health facilities.
 
 
-All documentation will be in the "docs" directory. This will includes a detailed specification document on the requirements of the system in line with WHO guidelines and developed in collaboration with medical experts. As the project develops it will include comprehensive documentation on the design. If you find any problems in the docs, or think they should be clarified in any way, please take 30 seconds to raise a ticket and if you can, get involved.
+All documentation will be in the "docs" directory and be viewed at https://enaccess.github.io/OpenO2. This will includes a detailed specification document on the requirements of the system in line with WHO guidelines and developed in collaboration with medical experts. As the project develops it will include comprehensive documentation on the design. If you find any problems in the docs, or think they should be clarified in any way, please take 30 seconds to raise a ticket and if you can, get involved.
 
 ## Contribute 
 Do you have skills or resources you would be able to offer? We'd love to hear from people with frontline experience in the Global South as doctors and nurses, doctors and nurses who would be willing to act as advisers to the project, designers, makers, creative thinkers, engineers, people with 3D cad experience, people who can help manage knowledge and documentation, scientists,  fabricators, people with experience of microcontrollers (think arduino) and writing ble mobile applications.
