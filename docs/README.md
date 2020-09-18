@@ -34,6 +34,7 @@ This project does not seek to duplicate work of other open source oxygen concent
 * https://github.com/RepRapLtd/Oxygen-concentrator
 * https://github.com/oxycon/ProjectApollo
 * https://hackaday.io/project/170752-oximeter-do-it-yourself/details
+* https://github.com/PubInv/oxygen-concentrator
 
 ## Roadmap
 The public roadmap for the project will soon be available.
