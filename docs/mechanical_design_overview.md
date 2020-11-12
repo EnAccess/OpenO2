@@ -1,6 +1,6 @@
-# Overview of single column design
+# Single Column Design
 
-Version one of the mechanical design is based on a simple mechanical system single column system controlled by a 12V motor. Details of this are given below. Oxygen Concentrations > 90% have been achieved with this design. We are currently working on 1) A double column design to achieve a more continuous flow; 2) A completely pneumatic controlled design (which does not rely on any external power source); 3) lowering the energy consumption using a completely different approach to make this more suitable for off-grid locations; 4) designs of a compressor which can be fabricated locally with minimal equipment.
+Version one of the mechanical design is based on a simple mechanical system single column system controlled by a 12V motor. Details of this are given below. Oxygen Concentrations > 90% have been achieved with this design. We have now developed a double column design, which achieves a more continuous flow, details of which are given in the next section. We are currently refining 1) A completely pneumatic controlled design (which does not rely on any external power source); 2) working on lowering the energy consumption of the designs; 4) testing the designs of a compressor which can be fabricated locally with minimal equipment.
 
 # Overview
 
