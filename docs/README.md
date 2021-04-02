@@ -21,8 +21,6 @@ All documentation will be in the "docs" directory. This will includes a detailed
 ## Contribute 
 Do you have skills or resources you would be able to offer? We'd love to hear from people with frontline experience in the Global South as doctors and nurses, doctors and nurses who would be willing to act as advisers to the project, designers, makers, creative thinkers, engineers, people with 3D cad experience, people who can help manage knowledge and documentation, scientists,  fabricators, people with experience of microcontrollers (think arduino) and writing ble mobile applications.
 
-Join the [slack](https://join.slack.com/t/openo2/shared_invite/zt-dd1zdamv-DflaeeFV1SwJfTES4zq71A) channel and introduce yourself on the #introductions channel, we're keen to have you involved. If you don't use slack and keen to be involved, please do fill in this [(short) form](https://forms.gle/AssXDcYFwrB8rB6Y8), we'd love to hear from you.
-
 ## How can we help you?
 Are you a frontline worker who could  benefit from this work? Are you connected with those who could benefit? Please do get in touch by filling in this [short form](https://forms.gle/qy3bU8bYMHzdqqZ36).
 
